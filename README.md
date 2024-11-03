@@ -31,7 +31,7 @@ This is a command-line Blackjack game where the player competes against the deal
 
 2. **Navigate to the Project Directory:**
     ```bash
-    cd blackjack
+    cd _blackjack
     ```
 
 3. **Run the Game:**
